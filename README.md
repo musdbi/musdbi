@@ -3,7 +3,7 @@
 ### Hi there 👋
 I'm Mustapha, a Master's student in MIAGE for Finance at the University of Paris Dauphine. You can explore my IT projects in the pinned section of my GitHub. Feel free to reach out via email at mustapha.doubabi@dauphine.eu.
 
-## Programming skills
+## Programming skills 💻
 * JAVA
 * PYTHON
 * SQL
@@ -11,7 +11,7 @@ I'm Mustapha, a Master's student in MIAGE for Finance at the University of Paris
 * VBA
 * JavaScript
 
-## Software tools
+## Software tools 🛠️
 * Alteryx
 * PowerBI
 * Git
