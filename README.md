@@ -17,7 +17,7 @@ I'm Mustapha, a Master's student in MIAGE for Finance at the University of Paris
 * Git
 * Jira
 
-🔭 I’m currently working at Groupe BPCE.
+🔭 I’m currently working at Groupe BPCE, in Paris.
 
 
 
