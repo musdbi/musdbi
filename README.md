@@ -1,13 +1,21 @@
 ![Student](https://github.com/musdbi/musdbi/blob/main/banner.png)
 
 ### Hi there 👋
-I am Mustapha, a student enrolled in the Master's program for MIAGE for Finance at the University of Paris Dauphine. You can find all the IT projects I have had the privilege to work on in the pinned section of my GitHub. If you'd like to contact me, please use my email: mustapha.doubabi@dauphine.eu.
+I'm Mustapha, a Master's student in MIAGE for Finance at the University of Paris Dauphine. You can explore my IT projects in the pinned section of my GitHub. Feel free to reach out via email at mustapha.doubabi@dauphine.eu.
 
-## Skills & Experience
+## Programming skills
 * JAVA
 * PYTHON
-* C
 * SQL
+* C
+* VBA
+* JavaScript
+
+## Software tools
+* Alteryx
+* PowerBI
+* Git
+* Jira
 
 🔭 I’m currently working at Groupe BPCE.
 
