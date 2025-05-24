@@ -17,7 +17,6 @@ I'm Mustapha, a Master's student in MIAGE for Finance at the University of Paris
 * PowerBI
 * Git
 * Jira
-* Dataiku
 
 🔭 I’m currently working at Groupe BPCE, in Paris.
 
