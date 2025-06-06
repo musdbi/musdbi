@@ -10,7 +10,6 @@ I'm Mustapha, a Master's student in MIAGE for Finance at the University of Paris
 * C
 * C ++
 * VBA
-* JavaScript
 
 ## Software tools 🛠️
 * Alteryx
